@@ -10,7 +10,7 @@ This video gave me the idea to create this repository, as it explains the concep
 
 ### Differences between 2D and 3D Components
 
-In many cases, 2D Components/Templates are compatible with various needs.
+In many cases, 2D Components/Templates are incompatible with various needs.
 
 ### How to Make 2D Components
 
