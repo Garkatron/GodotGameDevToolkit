@@ -3,6 +3,8 @@ Our repository aims to offer a diverse collection of pre-programmed templates an
 
 ## Make components
 
+[Video that explain](https://www.youtube.com/watch?v=74y6zWZfQKk)
+
 ### Differense between 2D-3D components
 some text
 
